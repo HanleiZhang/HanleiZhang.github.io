@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Hanlei Zhang"
   avatar           : "profile.png"
-  bio              : "PhD@Tsinghua University, NLP / Dialogue System / MultiModal"
+  bio              : "PhD@Tsinghua University" "NLP, Dialogue System, MultiModal"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en"
   email            : "zhang-hl20@mails.tsinghua.edu.cn"
   researchgate     :  #"https://www.researchgate.net/profile/yourprofile"
