@@ -11,9 +11,9 @@ redirect_from:
 I am now a Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in Open World Classification, Anomaly Detection, Constrained Clustering, Cross-Modal Intent Discovery. My research goal is to discover new intents in dialogue system.
 
 ## Education and Experience
-* [09.2020-present] Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
-* [12.2018-06.2019] Visiting student in [THUMT](https://github.com/THUNLP-MT/THUMT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
-* [09.2016-06.2020] B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
+* Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* Dec.2018 - Jun.2019. Visiting student in [THUMT](https://github.com/THUNLP-MT/THUMT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
+* Sep.2016 - .2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
