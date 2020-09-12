@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in Open World Classification, Anomaly Detection, Constrained Clustering, Cross-Modal Intent Discovery. My research goal is to discover new intents in dialogue system.
+I am now a Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in Open World Classification and Cross-Modal Intent Discovery. My research goal is to discover new intents in dialogue system.
 
 ## Education and Experience
 * Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
