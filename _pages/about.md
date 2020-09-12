@@ -13,7 +13,7 @@ I am now a Ph.D. student in the Department of Computer Science and Technology at
 ## Education and Experience
 * Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 * Dec.2018 - Jun.2019. Visiting student in [THUMT](https://github.com/THUNLP-MT/THUMT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
-* Sep.2016 - .2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
+* Sep.2016 - Jun.2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
@@ -24,7 +24,7 @@ I am now a Ph.D. student in the Department of Computer Science and Technology at
 
 ### 2020
 
-* Ting-En Lin, Hua Xu*, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).</i> [[pdf]](/files/AAAI20-CDAC+/CDAC+.pdf)[[codes]](https://github.com/thuiar/CDAC-plus)[[slices]](/files/AAAI20-CDAC+/slices.pdf)
+* Ting-En Lin, Hua Xu*, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (<strong>AAAI 2020, CCF A</strong>).</i> [[pdf]](/files/AAAI20-CDAC+/CDAC+.pdf)[[codes]](https://github.com/thuiar/CDAC-plus)[[slices]](/files/AAAI20-CDAC+/slices.pdf)
 
 ## Honor and Awards
 * [Jun. 2020] <strong>Beijing Outstanding graduates</strong>, from Beijing Jiaotong University.
