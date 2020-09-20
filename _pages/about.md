@@ -25,7 +25,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 
 ### 2020
 
-* Ting-En Lin, Hua Xu*, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (AAAI 2020, <strong>CCF A</strong>) [[pdf]](/files/AAAI20-CDAC+/CDAC+.pdf)[[codes]](https://github.com/thuiar/CDAC-plus)[[slices]](/files/AAAI20-CDAC+/slices.pdf)
+* Ting-En Lin, Hua Xu*, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020</strong>) [[pdf]](/files/AAAI20-CDAC+/CDAC+.pdf)[[codes]](https://github.com/thuiar/CDAC-plus)[[slices]](/files/AAAI20-CDAC+/slices.pdf)
 
 ## Honor and Awards
 * [Jun. 2020] <strong>Beijing Outstanding graduates</strong>, from Beijing Jiaotong University.
