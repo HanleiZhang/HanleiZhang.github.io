@@ -12,8 +12,8 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 
 ## Education and Experience
 * Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
-* Dec.2018 - Jun.2019. Visiting student in [THUMT](https://github.com/THUNLP-MT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
-* Sep.2016 - Jun.2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
+* Dec.2018 - Jun. 2019. Visiting student in [THUMT](https://github.com/THUNLP-MT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
+* Sep.2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
 * [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings.
