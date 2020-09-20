@@ -16,6 +16,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * Sep.2016 - Jun.2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
+* [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings.
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
 
 
