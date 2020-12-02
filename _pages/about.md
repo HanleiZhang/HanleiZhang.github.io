@@ -16,13 +16,15 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * Dec.2018 - Jun. 2019. Visiting student in [THUMT](https://github.com/THUNLP-MT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
-* [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!(the first author both)**.
+* [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!**.
 * [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings.
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
 
 
 ## Publications
 
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021</strong>) 
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, RuiLv. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021</strong>) 
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020</strong>) [[pdf]](/files/AAAI20-CDAC+/CDAC+.pdf)[[codes]](https://github.com/thuiar/CDAC-plus)[[slices]](/files/AAAI20-CDAC+/slices.pdf)
 
 ## Honor and Awards
