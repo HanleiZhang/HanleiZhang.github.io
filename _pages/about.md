@@ -24,7 +24,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 ## Publications
 
 * <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>) 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lv. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>) 
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lv. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[codes]](https://github.com/HanleiZhang/DeepAligned-Clustering)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[pdf]](/files/AAAI20-CDAC+/CDAC+.pdf)[[codes]](https://github.com/thuiar/CDAC-plus)[[slices]](/files/AAAI20-CDAC+/slices.pdf)
 
 ## Professional Services
