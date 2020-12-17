@@ -16,7 +16,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * Dec.2018 - Jun. 2019. Visiting student in [THUMT](https://github.com/THUNLP-MT), advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
-* [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!**.
+* [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!**
 * [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings.
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
 
