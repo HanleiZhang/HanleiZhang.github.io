@@ -18,7 +18,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 ## News
 * [Jan. 2021] Release a reading list about [Open Knowledge Discovery](https://github.com/thuiar/OKD-Reading-List), enjoy it!
 * [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!**
-* [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings.
+* [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings. (withdrawn → AAAI 2021)
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
 
 
