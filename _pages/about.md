@@ -40,5 +40,5 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)).
 * [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. 
 
-&nbsp;&nbsp;
-<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=414&t=tt&d=6oKT70Jy08qPF_EXR7PXexVX1X5I8S5uiTIntTb87ic&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=455&t=tt&d=6oKT70Jy08qPF_EXR7PXexVX1X5I8S5uiTIntTb87ic&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></center>
