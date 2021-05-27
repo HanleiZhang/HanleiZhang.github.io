@@ -16,6 +16,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * Sep.2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
+* [May. 2021] Got one demo paper accepted at ACL 2021!
 * [Jan. 2021] Release a reading list about [Open Knowledge Discovery](https://github.com/thuiar/OKD-Reading-List), enjoy it!
 * [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!**
 * [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings. (withdrawn → AAAI 2021)
@@ -24,8 +25,9 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 
 ## Publications
 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>To appear at the Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/HanleiZhang/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-DeepOpen/open.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>To appear at the Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/HanleiZhang/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
+* <strong>Hanlei Zhang</strong>, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visalized Platform for Open Intent Recognition. <i>To appear at the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Demo Track)</i>. (<strong>ACL 2021, CCF A</strong>)  
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/HanleiZhang/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-DeepOpen/open.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/HanleiZhang/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](/files/AAAI20-CDAC+/CDAC+.pdf)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
 ## Professional Services
