@@ -16,6 +16,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * Sep.2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
+* [Aug. 2021] Release the first [text open intent recognition toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrates 5 open-classification methods and 10 clustering methods (continue updating), enjoy it!
 * [May. 2021] Got one demo paper accepted at ACL 2021!
 * [Jan. 2021] Release a reading list about [Open Knowledge Discovery](https://github.com/thuiar/OKD-Reading-List), enjoy it!
 * [Dec. 2020] **Got two papers accepted at AAAI 2021 !!!**
@@ -25,10 +26,13 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 
 ## Publications
 
-* <strong>Hanlei Zhang</strong>, Xiaoteng Li, Hua Xu, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>To appear at the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Demo Track)</i>. (<strong>ACL-IJCNLP 2021, CCF A</strong>)  
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/HanleiZhang/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-DeepOpen/open.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/HanleiZhang/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
-* Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](/files/AAAI20-CDAC+/CDAC+.pdf)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
+* <strong>Hanlei Zhang*</strong>, Xiaoteng Li*, Hua Xu*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17690)[[code]](https://github.com/HanleiZhang/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-DeepOpen/open.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17689)[[code]](https://github.com/HanleiZhang/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
+* Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6353)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
+
+* indicates equal contribution
+
 
 ## Professional Services
 
