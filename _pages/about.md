@@ -31,7 +31,7 @@ I am now a first year Ph.D. student in the Department of Computer Science and Te
 * <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17689)[[code]](https://github.com/HanleiZhang/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6353)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
-* indicates equal contribution
+(\* indicates equal contribution)
 
 
 ## Professional Services
