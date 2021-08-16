@@ -5,12 +5,13 @@ permalink: /publication/TEXTOIR
 excerpt: 'TEXTOIR is the first integrated and visualized platform for text open intent recognition. It is composed of two main modules: open intent detection and open intent discovery. Each module integrates most of the state-of-the-art algorithms and benchmark intent datasets. It also contains an overall framework connecting the two modules in a pipeline scheme. In addition, this platform has visualized tools for data and model management, training, evaluation and analysis of the performance from different aspects. TEXTOIR provides useful toolkits and convenient visualized interfaces for each sub-module, and designs a framework to implement a complete process to both identify known intents and discover open intents. The toolkit codes are released at https://github.com/thuiar/TEXTOIR,  and the demo codes are released at https://github.com/thuiar/TEXTOIR-DEMO.'
 date: 2021-8-2
 venue: 'ACL'
-paperurl: '/files/AAAI21-DeepAligned/DeepAligned.pdf'
+paperurl: 'https://aclanthology.org/2021.acl-demo.20.pdf'
 
 
 ---
 TEXTOIR is the first integrated and visualized platform for text open intent recognition. It is composed of two main modules: open intent detection and open intent discovery. Each module integrates most of the state-of-the-art algorithms and benchmark intent datasets. It also contains an overall framework connecting the two modules in a pipeline scheme. In addition, this platform has visualized tools for data and model management, training, evaluation and analysis of the performance from different aspects. TEXTOIR provides useful toolkits and convenient visualized interfaces for each sub-module, and designs a framework to implement a complete process to both identify known intents and discover open intents. The toolkit codes are released at https://github.com/thuiar/TEXTOIR, and the demo codes are released at https://github.com/thuiar/TEXTOIR-DEMO.
 
-[[pdf]](/files/AAAI21-DeepAligned/DeepAligned.pdf)
-[[code]](https://github.com/thuiar/DeepAligned-Clustering)
-[[bib]](/files/AAAI21-DeepAligned/DeepAligned.bib)
+[[pdf]](https://aclanthology.org/2021.acl-demo.20.pdf)
+[[toolkit]](https://github.com/thuiar/TEXTOIR)
+[[demo]](https://github.com/thuiar/TEXTOIR-DEMO)
+[[bib]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
