@@ -1,19 +1,16 @@
 ---
-title: "TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition"
+title: "Discovering New Intents with Deep Aligned Clustering"
 collection: publications
-permalink: /publication/TEXTOIR
-excerpt: 'TEXTOIR is the first integrated and visualized platform for text open intent recognition. It is composed of two main modules: open intent detection and open intent discovery. Each module integrates most of the state-of-the-art algorithms and benchmark intent datasets. It also contains an overall framework connecting the two modules in a pipeline scheme. In addition, this platform has visualized tools for data and model management, training, evaluation and analysis of the performance from different aspects. TEXTOIR provides useful toolkits and convenient visualized interfaces for each sub-module, and designs a framework to implement a complete process to both identify known intents and discover open intents. The toolkit codes are released at https://github.com/thuiar/TEXTOIR', and the demo codes are released at https://github.com/thuiar/TEXTOIR-DEMO.'
-
-date: 2021-8-2
+permalink: /publication/DeepAligned
+excerpt: 'Discovering new intents is a crucial task in dialogue systems. Most existing methods are limited in transferring the prior knowledge from known intents to new intents. They also have difficulties in providing high-quality supervised signals to learn clustering-friendly features for grouping unlabeled intents. In this work, we propose an effective method, Deep Aligned Clustering, to discover new intents with the aid of the limited known intent data. Firstly, we leverage a few labeled known intent samples as prior knowledge to pre-train the model. Then, we perform k-means to produce cluster assignments as pseudo-labels. Moreover, we propose an alignment strategy to tackle the label inconsistency problem during clustering assignments. Finally, we learn the intent representations under the supervision of the aligned pseudo-labels. With an unknown number of new intents, we predict the number of intent categories by eliminating low-confidence intent-wise clusters. Extensive experiments on two benchmark datasets show that our method is more robust and achieves substantial improvements over the state-of-the-art methods. The codes are released at https://github.com/thuiar/DeepAlignedClustering.'
+date: 2021-5-18
 venue: 'AAAI'
-paperurl: 'https://aclanthology.org/2021.acl-demo.20.pdf'
+paperurl: '/files/AAAI21-DeepAligned/DeepAligned.pdf'
 
 
 ---
-TEXTOIR is the first integrated and visualized platform for text open intent recognition. It is composed of two main modules: open intent detection and open intent discovery. Each module integrates most of the state-of-the-art algorithms and benchmark intent datasets. It also contains an overall framework connecting the two modules in a pipeline scheme. In addition, this platform has visualized tools for data and model management, training, evaluation and analysis of the performance from different aspects. TEXTOIR provides useful toolkits and convenient visualized interfaces for each sub-module, and designs a framework to implement a complete process to both identify known intents and discover open intents. The toolkit codes are released at https://github.com/thuiar/TEXTOIR', and the demo codes are released at https://github.com/thuiar/TEXTOIR-DEMO.
+Discovering new intents is a crucial task in dialogue systems. Most existing methods are limited in transferring the prior knowledge from known intents to new intents. They also have difficulties in providing high-quality supervised signals to learn clustering-friendly features for grouping unlabeled intents. In this work, we propose an effective method, Deep Aligned Clustering, to discover new intents with the aid of the limited known intent data. Firstly, we leverage a few labeled known intent samples as prior knowledge to pre-train the model. Then, we perform k-means to produce cluster assignments as pseudo-labels. Moreover, we propose an alignment strategy to tackle the label inconsistency problem during clustering assignments. Finally, we learn the intent representations under the supervision of the aligned pseudo-labels. With an unknown number of new intents, we predict the number of intent categories by eliminating low-confidence intent-wise clusters. Extensive experiments on two benchmark datasets show that our method is more robust and achieves substantial improvements over the state-of-the-art methods. The codes are released at https://github.com/thuiar/DeepAlignedClustering.
 
-
-[[pdf]](https://aclanthology.org/2021.acl-demo.20.pdf)
-[[toolkit]](https://github.com/thuiar/TEXTOIR)
-[[demo]](https://github.com/thuiar/TEXTOIR-DEMO)
-[[bib]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
+[[pdf]](/files/AAAI21-DeepAligned/DeepAligned.pdf)
+[[code]](https://github.com/thuiar/DeepAligned-Clustering)
+[[bib]](/files/AAAI21-DeepAligned/DeepAligned.bib)
