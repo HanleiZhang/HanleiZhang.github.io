@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in open knowledge discovery. My research goal is to detect open intent and discover new intents in dialogue systems.
+I am now a second year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in open knowledge discovery, multimodal machine learning. My research goal is analyzing textual and multimodal intents in real-world scenarios.
 
 ## Education and Experience
 * Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
