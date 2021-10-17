@@ -42,7 +42,7 @@ I am now a second year Ph.D. student in the Department of Computer Science and T
 ### Ph.D.
 
 ### Bachelor
-* [Jun. 2020] <strong>Beijing Outstanding graduates</strong>, 2020. 
+* [Jun. 2020] <strong>Beijing Outstanding graduates</strong>. 
 * [Apr. 2019] <strong>Meritorious Winner</strong>, MCM/ICM 2019.
 * [Nov. 2018] <strong>National Scholarship</strong> for Undergraduate Student ([2018 No.01051](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)). 
 * [Nov. 2018] <strong>Bronze Medal</strong>, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018.
