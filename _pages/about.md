@@ -39,7 +39,9 @@ I am now a second year Ph.D. student in the Department of Computer Science and T
 * Serve as a Program Committee Member / Reviewer in AAAI 2021.
 
 ## Honor and Awards
+
 ### Ph.D.
+* [Oct. 2021] <strong>Overall Excellence (Jiangzhen) Scholarship, Tsinghua University</strong>.
 
 ### Bachelor
 * [Jun. 2020] <strong>Beijing Outstanding graduates</strong>. 
