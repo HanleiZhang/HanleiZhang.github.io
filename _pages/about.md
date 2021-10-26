@@ -14,9 +14,9 @@ I am now a second year Ph.D. student in the Department of Computer Science and T
 * [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
 
 ## Education and Experience
-* Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
-* Dec.2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
-* Sep.2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
+* Aug. 2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
+* Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
 * [Aug. 2021] Release the first text open intent recognition [toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrating 5 open-classification methods and 10 clustering methods, enjoy it!
