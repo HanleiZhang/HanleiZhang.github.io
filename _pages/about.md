@@ -10,19 +10,20 @@ redirect_from:
 
 I am now a second year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in open knowledge discovery, multimodal machine learning. My research goal is analyzing textual and multimodal intents in real-world scenarios.
 
+* [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
+* [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
+
 ## Education and Experience
 * Aug.2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 * Dec.2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 * Sep.2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
-* [Aug. 2021] Release the first [text open intent recognition toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrates 5 open-classification methods and 10 clustering methods (continue updating), enjoy it!
-* [May. 2021] Got one demo paper accepted at ACL 2021!
+* [Aug. 2021] Release the first text open intent recognition [toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrating 5 open-classification methods and 10 clustering methods, enjoy it!
+* [May. 2021] Got one demo paper accepted at ACL 2021.
 * [Jan. 2021] Release a reading list about [Open Knowledge Discovery](https://github.com/thuiar/OKD-Reading-List), enjoy it!
-* [Dec. 2020] **Got two papers accepted at AAAI 2021**.
-* [Sep. 2020] Got one paper accepted at EMNLP 2020 Findings. (withdrawn → AAAI 2021)
+* [Dec. 2020] Got two papers accepted at AAAI 2021.
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
-
 
 ## Publications
 
