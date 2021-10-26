@@ -21,7 +21,7 @@ I am now a second year Ph.D. student in the Department of Computer Science and T
 ## News
 * [Aug. 2021] Release the first text open intent recognition [toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrating 5 open-classification methods and 10 clustering methods, enjoy it!
 * [May. 2021] Got one demo paper accepted at ACL 2021.
-* [Jan. 2021] Release a reading list about [Open Knowledge Discovery](https://github.com/thuiar/OKD-Reading-List), enjoy it!
+* [Jan. 2021] Release the first open knowledge discovery [reading list](https://github.com/thuiar/OKD-Reading-List), enjoy it!
 * [Dec. 2020] Got two papers accepted at AAAI 2021.
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
 
