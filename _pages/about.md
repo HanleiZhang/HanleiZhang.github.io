@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](http://www.csai.tsinghua.edu.cn/iar/members/xuhua.htm). My research interests lie in open knowledge discovery, multimodal machine learning. My research goal is analyzing textual and multimodal intents in real-world scenarios.
+I am now a second year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery, multimodal machine learning. My research goal is analyzing textual and multimodal intents in real-world scenarios.
 
 * [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
 * [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
@@ -42,7 +42,7 @@ I am now a second year Ph.D. student in the Department of Computer Science and T
 ## Honor and Awards
 
 ### Ph.D.
-* [Oct. 2021] <strong>Overall Excellence (Jiangzhen) Scholarship</strong>, Tsinghua University.
+* [Oct. 2021] <strong>Jiangzhen Scholarship</strong>, DCST, Tsinghua University (<strong> top 5% </strong>).
 
 ### Bachelor
 * [Jun. 2020] <strong>Beijing Outstanding graduates</strong>. 
