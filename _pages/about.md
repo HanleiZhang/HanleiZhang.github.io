@@ -37,7 +37,7 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 
 ## Professional Services
 
-* Serve as a Program Committee Member / Reviewer in AAAI 2021.
+* Serve as a Program Committee Member / Reviewer in ARR 2022, AAAI 2021. 
 
 ## Honor and Awards
 
