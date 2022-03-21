@@ -25,6 +25,10 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 * [Dec. 2020] Got two papers accepted at AAAI 2021.
 * [Nov. 2019] Got one paper accepted at AAAI 2020.
 
+## Preprint
+
+* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Towards Open Intent Detection. [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection) 
+
 ## Publications
 
 * <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
@@ -33,10 +37,6 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6353)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
 (\* indicates equal contribution)
-
-## Preprint
-
-* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Towards Open Intent Detection. [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection) 
 
 ## Professional Services
 
