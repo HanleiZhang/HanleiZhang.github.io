@@ -46,7 +46,7 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 
 ### Ph.D.
 * [Oct. 2021] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 3%**)
-* [June. 2021] Social Work Excellence Scholarship, DCST, Tsinghua University.
+* [Jun. 2021] Social Work Excellence Scholarship, DCST, Tsinghua University.
 
 ### Bachelor
 * [Jun. 2020] <strong>Beijing Outstanding graduates</strong>. 
