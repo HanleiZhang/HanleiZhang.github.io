@@ -45,7 +45,7 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 ## Honor and Awards
 
 ### Ph.D.
-* [Oct. 2021] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 3%**)
+* [Oct. 2021] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
 
 ### Bachelor
 * [Jun. 2020] <strong>Beijing Outstanding graduates</strong>. 
