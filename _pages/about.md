@@ -32,17 +32,17 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 
 ## Publications
 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. <i>To appear in the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022, CCF A</strong>) 
+* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. <i>To appear in the proceedings of the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022, CCF A</strong>) 
 * <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>The 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/thuiar/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-DeepOpen/open.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>The 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/thuiar/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/thuiar/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-DeepOpen/open.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/thuiar/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/aligned.bib)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](https://arxiv.org/pdf/1911.08891.pdf)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
 (\* indicates equal contribution)
 
 ## Professional Services
 
-* Serve as a Program Committee Member / Reviewer in ARR 2022, AAAI 2021. 
+* Serve as a Program Committee Member / Reviewer in AAAI 2021, ARR 2022. 
 
 ## Honor and Awards
 
