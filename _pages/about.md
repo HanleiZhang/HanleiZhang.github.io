@@ -28,7 +28,7 @@ I am now a second year Ph.D. student in THUIAR group, the Department of Computer
 
 ## Preprints
 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Towards Open Intent Detection. [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection) [[bibtex]](/files/Preprint/Open_Intent_Detection.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Towards Open Intent Detection. [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection) [[bibtex]](/files/Preprints/DA-ADB.bib)
 
 ## Publications
 
