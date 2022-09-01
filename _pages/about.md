@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery and multimodal machine learning. My research goal is analyzing textual and multimodal intents in real-world scenarios.
+I am now a third year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery and multimodal machine learning. My research goal is analyzing textual and multimodal intents in real-world scenarios.
 
 * [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
 * [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
