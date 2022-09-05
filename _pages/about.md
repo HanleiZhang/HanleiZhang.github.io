@@ -47,15 +47,17 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 ## Honor and Awards
 
 ### Ph.D.
+
+* [Sep. 2022] <strong>Longfor Scholarship</strong>, DCST, Tsinghua University.
 * [Oct. 2021] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
 
 ### Bachelor
-* [Jun. 2020] <strong>Beijing Outstanding graduates</strong>. 
-* [Apr. 2019] <strong>Meritorious Winner</strong>, MCM/ICM 2019.
-* [Nov. 2018] <strong>National Scholarship</strong> for Undergraduate Student ([2018 No.01051](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)). 
-* [Nov. 2018] <strong>Bronze Medal</strong>, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018.
-* [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)).
-* [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. 
+* [Jun. 2020] <strong>Beijing Outstanding graduates</strong>, from Beijing Jiaotong University. 
+* [Apr. 2019] <strong>Meritorious Winner</strong>, MCM/ICM 2019. (**Top 7%**)
+* [Nov. 2018] <strong>National Scholarship</strong> for Undergraduate Student ([2018 No.01051](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)). (**Top 2%**)
+* [Nov. 2018] <strong>Bronze Medal</strong>, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018. 
+* [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)
+* [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. (**Top 5%**)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=6oKT70Jy08qPF_EXR7PXexVX1X5I8S5uiTIntTb87ic&cmo=ff5353&cmn=ff5353'></script>
