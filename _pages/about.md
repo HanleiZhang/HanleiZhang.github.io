@@ -20,7 +20,7 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
-* [Sep. 2022] Release a novel benchmark dataset for multimodal intent recognition [resources](https://github.com/thuiar/MIntRec), enjoy it!
+* [Sep. 2022] Release a novel benchmark dataset for multimodal intent recognition (MIntRec) [resources](https://github.com/thuiar/MIntRec), enjoy it!
 * [Jun. 2022] Got one paper accepted at ACM MM 2022. 
 * [Aug. 2021] Release the first text open intent recognition [toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrating a series of methods in open intent detection and discovery, enjoy it!
 * [May. 2021] Got one paper accepted at ACL 2021.
