@@ -42,6 +42,12 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 
 (\* indicates equal contribution)
 
+## Invited Talks
+
+* [Sep. 2022] MIntRec: A Novel Multimodal Intent Recognition Dataset. Talk at MLNLP. [video](https://www.bilibili.com/video/BV1DD4y1v77N/)
+* [Mar. 2021] Open intent detection and discovery in dialogue systems. Talk at [AI TIME](http://www.aitime.cn/). [video](https://www.bilibili.com/video/av247223757/)
+
+
 ## Professional Services
 
 * Serve as a Program Committee Member / Reviewer in AAAI 2021, ARR 2022. 
