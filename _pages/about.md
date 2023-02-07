@@ -30,7 +30,7 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 
 ## Preprints
 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR) [[bibtex]](/files/Preprints/DA-ADB.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. <i>Under review</i> [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR) [[bibtex]](/files/Preprints/DA-ADB.bib)
 
 ## Publications
 
@@ -50,7 +50,7 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 
 ## Professional Services
 
-* Serve as a Program Committee Member / Reviewer in AAAI 2021, ARR 2022. 
+* Serve as a Program Committee Member / Reviewer in AAAI-21, NAACL-22, IJCAI-23, KDD-23. 
 
 ## Honor and Awards
 
