@@ -20,22 +20,23 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
+* [Mar. 2023] Got one full paper accepted by IEEE/ACM TASLP.
 * [Sep. 2022] Release a novel benchmark dataset for multimodal intent recognition (MIntRec) [resources](https://github.com/thuiar/MIntRec), enjoy it!
-* [Jun. 2022] Got one paper accepted at ACM MM 2022. 
+* [Jun. 2022] Got one full paper accepted at ACM MM 2022. 
 * [Aug. 2021] Release the first text open intent recognition [toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrating a series of methods in open intent detection and discovery, enjoy it!
-* [May. 2021] Got one paper accepted at ACL 2021.
+* [May. 2021] Got one demo paper accepted at ACL 2021.
 * [Jan. 2021] Release the first open knowledge discovery [reading list](https://github.com/thuiar/OKD-Reading-List), enjoy it!
-* [Dec. 2020] Got two papers accepted at AAAI 2021.
-* [Nov. 2019] Got one paper accepted at AAAI 2020.
+* [Dec. 2020] Got two full papers accepted at AAAI 2021.
+* [Nov. 2019] Got one full paper accepted at AAAI 2020.
 
 
 ## Publications
 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. 2023. Accepted by <i>IEEE/ACM Transactions on Audio, Speech and Language Processing</i>. (<strong>IEEE/ACM TASLP, TH-CPL A</strong>) [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR) [[bibtex]](/files/Preprints/DA-ADB.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. <i>Proceedings of the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022, CCF A</strong>) [[paper]](https://dl.acm.org/doi/10.1145/3503161.3547906) [[code]](https://github.com/thuiar/MIntRec) [[bibtex](/files/ACM-MM22-MIntRec/MIntRec.bib)]
-* <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/thuiar/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-ADB/ADB.bib)
-* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/thuiar/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/DeepAligned.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. 2023. Accepted by <i>IEEE/ACM Transactions on Audio, Speech and Language Processing</i>. (<strong>IEEE/ACM TASLP</strong>) [[arXiv]](https://arxiv.org/pdf/2203.05823.pdf) [[code]](https://github.com/thuiar/TEXTOIR) [[bibtex]](/files/Preprints/DA-ADB.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. <i>Proceedings of the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022</strong>) [[paper]](https://dl.acm.org/doi/10.1145/3503161.3547906) [[code]](https://github.com/thuiar/MIntRec) [[bibtex](/files/ACM-MM22-MIntRec/MIntRec.bib)]
+* <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/thuiar/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-ADB/ADB.bib)
+* <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/thuiar/DeepAligned-Clustering)[[bibtex]](/files/AAAI21-DeepAligned/DeepAligned.bib)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF A</strong>) [[paper]](https://arxiv.org/pdf/1911.08891.pdf)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
 (\* indicates equal contribution)
