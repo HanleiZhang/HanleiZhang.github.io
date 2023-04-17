@@ -41,21 +41,6 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 
 (\* indicates equal contribution)
 
-## Invited Talks
-
-* [Sep. 2022] MIntRec: A Novel Multimodal Intent Recognition Dataset. Talk at MLNLP. [[video]](https://www.bilibili.com/video/BV1DD4y1v77N/)
-* [Mar. 2021] Open intent detection and discovery in dialogue systems. Talk at [AI TIME](http://www.aitime.cn/). [[video]](https://www.bilibili.com/video/av247223757/)
-
-
-## Professional Services
-
-Reviewer / Program Committee Member:
-* AAAI (2021)
-* ACL (2023)
-* IJCAI (2023)
-* KDD (2023)
-* NeurIPS (2023)
-
 ## Honor and Awards
 
 ### Ph.D.
@@ -71,6 +56,21 @@ Reviewer / Program Committee Member:
 * [Nov. 2018] <strong>Bronze Medal</strong>, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018. 
 * [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)
 * [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. (**Top 5%**)
+
+## Invited Talks
+
+* [Sep. 2022] MIntRec: A Novel Multimodal Intent Recognition Dataset. Talk at MLNLP. [[video]](https://www.bilibili.com/video/BV1DD4y1v77N/)
+* [Mar. 2021] Open intent detection and discovery in dialogue systems. Talk at [AI TIME](http://www.aitime.cn/). [[video]](https://www.bilibili.com/video/av247223757/)
+
+
+## Professional Services
+
+Reviewer / Program Committee Member:
+* AAAI (2021)
+* ACL (2023)
+* IJCAI (2023)
+* KDD (2023)
+* NeurIPS (2023)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=6oKT70Jy08qPF_EXR7PXexVX1X5I8S5uiTIntTb87ic&cmo=ff5353&cmn=ff5353'></script>
