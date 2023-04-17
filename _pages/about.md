@@ -49,7 +49,12 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 
 ## Professional Services
 
-* Serve as a Program Committee Member / Reviewer in AAAI 2021, NAACL 2022, ACL 2023, IJCAI 2023, KDD 2023. 
+Reviewer / Program Committee Member:
+* AAAI (2021)
+* ACL (2023)
+* IJCAI (2023)
+* KDD (2023)
+* NeurIPS (2023)
 
 ## Honor and Awards
 
