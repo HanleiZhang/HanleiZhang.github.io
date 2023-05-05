@@ -15,7 +15,7 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 * [Open Knowledge Discovery Reading List](https://github.com/thuiar/OKD-Reading-List)
 
 ## Education and Experience
-* Sep. 2020 - now. Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
