@@ -48,6 +48,7 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 
 ### Ph.D.
 
+* [Dec. 2022] <strong>Apple Scholars in AI/ML Nomination</strong>.
 * [Oct. 2022] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
 * [Sep. 2022] <strong>Longfor Scholarship</strong>, DCST, Tsinghua University.
 * [Oct. 2021] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
