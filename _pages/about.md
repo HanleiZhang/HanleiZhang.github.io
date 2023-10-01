@@ -29,12 +29,10 @@ I am now a third year Ph.D. student in THUIAR group, the Department of Computer 
 * [Dec. 2020] Got two full papers accepted at AAAI 2021.
 * [Nov. 2019] Got one full paper accepted at AAAI 2020.
 
-## Preprints
-
-* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Fei Long, Kai Gao. USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery. 2023. <i>Under Review</i>. [[arXiv]](https://arxiv.org/abs/2304.07699)
 
 ## Publications
 
+* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Fei Long, Kai Gao. USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery. 2023. <i>IEEE Transactions on Knowledge and Data Engineering. Minor Revisions</i>. (<strong>IEEE TKDE (Minor Revisions), CCF-A</strong>) [[arXiv]](https://arxiv.org/abs/2304.07699)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. 2023.   <i>IEEE/ACM Transactions on Audio, Speech and Language Processing</i> Volume 31. (<strong>IEEE/ACM TASLP, TH-CPL-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10097558) [[code]](https://github.com/thuiar/TEXTOIR) [[bibtex]](/files/TASLP23-DA-ADB/DA-ADB.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. <i>Proceedings of the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022, CCF-A</strong>) [[paper]](https://dl.acm.org/doi/10.1145/3503161.3547906) [[code]](https://github.com/thuiar/MIntRec) [[bibtex](/files/ACM-MM22-MIntRec/MIntRec.bib)]
 * <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF-A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
