@@ -20,14 +20,14 @@ I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
-* [Dec. 2023] Got one full paper accepted by IEEE TKDE.
-* [Mar. 2023] Got one full paper accepted by IEEE/ACM TASLP.
+* [Dec. 2023] Got one full paper accepted by IEEE TKDE (first-author).
+* [Mar. 2023] Got one first-author full paper accepted by IEEE/ACM TASLP (first-author).
 * [Sep. 2022] Release a novel benchmark dataset for multimodal intent recognition (MIntRec) [resources](https://github.com/thuiar/MIntRec), enjoy it!
-* [Jun. 2022] Got one full paper accepted at ACM MM 2022. 
+* [Jun. 2022] Got one first-author full paper accepted at ACM MM 2022 (first-author). 
 * [Aug. 2021] Release the first text open intent recognition [toolkit](https://github.com/thuiar/TEXTOIR) (TEXTOIR), integrating a series of methods in open intent detection and discovery, enjoy it!
-* [May. 2021] Got one demo paper accepted at ACL 2021.
+* [May. 2021] Got one first-author demo paper accepted at ACL 2021 (first-author).
 * [Jan. 2021] Release the first open knowledge discovery [reading list](https://github.com/thuiar/OKD-Reading-List), enjoy it!
-* [Dec. 2020] Got two full papers accepted at AAAI 2021.
+* [Dec. 2020] Got two first-author full papers accepted at AAAI 2021 (first-author).
 * [Nov. 2019] Got one full paper accepted at AAAI 2020.
 
 
