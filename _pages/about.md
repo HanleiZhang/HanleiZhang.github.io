@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open set recognition, clustering, multimodal machine learning, and natural language processing. I have 
-focus on analyzing human intentions in open world and multimodal scenarios and have built a series of important tasks, such as open intent detection, new intent discovery, and multimodal intent analysis. To faciliate the research in these areas, we made a series of foundational and pioneering works, including algorithms (ADB, DA-ADB, DeepAligned, USNID), datasets (MIntRec), and toolkits (TEXTOIR), and have several papers published in top-tier AI journals and conferences Google Scholar Citations: [View Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)
+I am currently in my fourth year as a Ph.D. student with the THUIAR group at the Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. Hua Xu, my research primarily focuses on open set recognition, clustering, multimodal machine learning, and natural language processing.
 
-
+My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and toolkits such as TEXTOIR. My efforts have culminated in several publications in top-tier AI journals and conferences and also made a substantial impact in the community ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ): 258).
 
 * [Multimodal Intent Recognition Dataset](https://github.com/thuiar/MIntRec)
 * [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
