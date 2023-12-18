@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery and multimodal machine learning. My research goal is analyzing textual and multimodal human intentions in real-world scenarios.
+I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery and multimodal machine learning. My research goal is analyzing textual and multimodal human intentions in real-world scenarios. I have published several papers in top-tier AI journals and conferences and got <a href='https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 * [Multimodal Intent Recognition Dataset](https://github.com/thuiar/MIntRec)
 * [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
@@ -32,9 +32,9 @@ I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer
 * [Nov. 2019] Got one full paper accepted at AAAI 2020.
 
 
-## Publications
+## Publications 
 
-* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Fei Long, Kai Gao. A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery. 2023. <i>IEEE Transactions on Knowledge and Data Engineering.</i>. (<strong>IEEE TKDE, CCF-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10349963)  [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) 
+* <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Fei Long, Kai Gao. A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery. 2023. <i>IEEE Transactions on Knowledge and Data Engineering.</i>. (<strong>IEEE TKDE, CCF-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10349963)  [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. 2023.   <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i> Volume 31. (<strong>IEEE/ACM TASLP, TH-CPL-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10097558) [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection) [[bibtex]](/files/TASLP23-DA-ADB/DA-ADB.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. 2022. <i>Proceedings of the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022, CCF-A</strong>) [[paper]](https://dl.acm.org/doi/10.1145/3503161.3547906) [[code]](https://github.com/thuiar/MIntRec) [[bibtex](/files/ACM-MM22-MIntRec/MIntRec.bib)]
 * <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. 2021. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF-A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
