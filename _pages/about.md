@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery and multimodal machine learning. My research goal is analyzing textual and multimodal human intentions in real-world scenarios. I have published several papers in top-tier AI journals and conferences and got <a href='https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am now a fourth year Ph.D. student in THUIAR group, the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China. My supervisor is Prof. [Hua Xu](https://thu-xuhua.github.io/). My research interests lie in open knowledge discovery and multimodal machine learning. My research goal is analyzing textual and multimodal human intentions in real-world scenarios, and I have published several papers in top-tier AI journals and conferences. <a href='https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 * [Multimodal Intent Recognition Dataset](https://github.com/thuiar/MIntRec)
 * [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
