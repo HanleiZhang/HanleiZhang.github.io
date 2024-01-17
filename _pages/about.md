@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently in my fourth year as a Ph.D. student in the THUIAR group with State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. [Hua Xu](https://thu-xuhua.github.io/), my research primarily focuses on open set recognition, clustering, multimodal machine learning, and natural language processing.
 
-My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and toolkits such as TEXTOIR. My efforts have culminated in several publications in top-tier AI journals and conferences (e.g., IEEE TKDE, IEEE/ACM TASLP, ACL, AAAI, ACM MM), and these works have been cited by over 280 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
+My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. My efforts have culminated in several publications in top-tier AI journals and conferences (e.g., ICLR, IEEE TKDE, IEEE/ACM TASLP, ACL, AAAI, ACM MM), and these works have been cited by over 280 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
 
 * [Multimodal Intent Recognition Dataset](https://github.com/thuiar/MIntRec)
 * [Text Open Intent Recognition Toolkit](https://github.com/thuiar/TEXTOIR)
@@ -22,6 +22,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
+* [Jan. 2024] Got one first-author full paper accepted by ICLR 2024 and released MIntRec2.0, the first large-scale dataset for multimodal intent recognition and out-of-scope detection in multi-party conversations. See you in Vienna!
 * [Dec. 2023] Got one full paper accepted by AAAI 2024. Congratulations to Qianrui!
 * [Dec. 2023] Got one first-author full paper accepted by IEEE TKDE.
 * [Mar. 2023] Got one first-author full paper accepted by IEEE/ACM TASLP.
@@ -36,6 +37,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ## Publications 
 
+* <strong>Hanlei Zhang</strong>, Xin Wang, Hua Xu, Qianrui Zhou, Jianhua Su, Jinyue Zhao, Wenrui Li, Yanting Chen, Kai Gao. MIntRec2.0: A Large-scale Benchmark Dataset for Multimodal Intent Recognition and Out-of-scope Detection in Conversations. 2023. <i>To appear at the Proceedings of the 12th International Conference on Learning Representations.</i> (<strong>ICLR 2024, TH-CPL A</strong>) [[paper]](https://openreview.net/forum?id=nY9nITZQjc)  
 * <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Fei Long, Kai Gao. A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery. 2023. <i>IEEE Transactions on Knowledge and Data Engineering.</i> (<strong>IEEE TKDE, CCF-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10349963)  [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) [[bibtex]](/files/TKDE23-USNID/USNID.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Shaojie Zhao, Qianrui Zhou. Learning Discriminative Representations and Decision Boundaries for Open Intent Detection. 2023.   <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i> Volume 31. (<strong>IEEE/ACM TASLP, TH-CPL-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10097558) [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection) [[bibtex]](/files/TASLP23-DA-ADB/DA-ADB.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Qianrui Zhou, Shaojie Zhao, Jiayan Teng. MIntRec: A New Dataset for Multimodal Intent Recognition. 2022. <i>Proceedings of the 30th ACM International Conference on Multimedia</i>. (<strong>ACM MM 2022, CCF-A</strong>) [[paper]](https://dl.acm.org/doi/10.1145/3503161.3547906) [[code]](https://github.com/thuiar/MIntRec) [[bibtex](/files/ACM-MM22-MIntRec/MIntRec.bib)]
