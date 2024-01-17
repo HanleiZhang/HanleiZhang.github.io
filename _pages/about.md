@@ -22,7 +22,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
-* [Jan. 2024] Got one first-author full paper accepted by ICLR 2024 and released MIntRec2.0, the first large-scale dataset for multimodal intent recognition and out-of-scope detection in multi-party conversations. See you in Vienna!
+* [Jan. 2024] Got one first-author full paper accepted by ICLR 2024. See you in Vienna!
 * [Dec. 2023] Got one full paper accepted by AAAI 2024. Congratulations to Qianrui!
 * [Dec. 2023] Got one first-author full paper accepted by IEEE TKDE.
 * [Mar. 2023] Got one first-author full paper accepted by IEEE/ACM TASLP.
