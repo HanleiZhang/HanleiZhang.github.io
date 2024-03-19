@@ -77,7 +77,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 Reviewer / Program Committee Member:
 * AAAI (2021)
-* ACL (2023)
+* ACL (2023, 2024)
 * IJCAI (2023, 2024)
 * KDD (2023)
 * NeurIPS (2023)
