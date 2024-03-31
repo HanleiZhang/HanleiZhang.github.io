@@ -13,8 +13,8 @@ I am currently in my fourth year as a Ph.D. student in the THUIAR group with Sta
 My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. My efforts have culminated in several publications in top-tier AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI,  ACM MM, IEEE/ACM TASLP), and these works have been cited by over 300 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
 
 * Multimodal Intent Recognition Datasets ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
-* Text Open Intent Recognition Platform [Toolkit](https://github.com/thuiar/TEXTOIR)
-* Open Knowledge Discovery Reading List [Link](https://github.com/thuiar/OKD-Reading-List)
+* Text Open Intent Recognition Platform ([Toolkit](https://github.com/thuiar/TEXTOIR))
+* Open Knowledge Discovery Reading List ([Link](https://github.com/thuiar/OKD-Reading-List))
 
 ## Education and Experience
 * Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
