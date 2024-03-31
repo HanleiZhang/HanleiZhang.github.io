@@ -14,7 +14,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 * Multimodal Intent Recognition Datasets ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
 * Text Open Intent Recognition Platform [Toolkit](https://github.com/thuiar/TEXTOIR)
-* Open Knowledge Discovery Collections [Reading_List](https://github.com/thuiar/OKD-Reading-List)
+* Open Knowledge Discovery Reading List [Link](https://github.com/thuiar/OKD-Reading-List)
 
 ## Education and Experience
 * Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
