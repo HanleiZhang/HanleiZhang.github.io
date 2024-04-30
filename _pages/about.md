@@ -44,7 +44,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * <strong>Hanlei Zhang</strong>\*, Xiaoteng Li\*, Hua Xu\*, Panpan Zhang, Kang Zhao, Kai Gao. TEXTOIR: An Integrated and Visualized Platform for Open Intent Recognition. 2021. <i>Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations</i>. (<strong>ACL-IJCNLP 2021, CCF-A</strong>)  [[paper]](https://aclanthology.org/2021.acl-demo.20.pdf) [[toolkit]](https://github.com/thuiar/TEXTOIR) [[demo]](https://github.com/thuiar/TEXTOIR-DEMO) [[bibtex]](/files/ACL21-TEXTOIR/TEXTOIR.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin. Deep Open Intent Classification with Adaptive Decision Boundary. 2021. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF-A</strong>)  [[paper]](https://arxiv.org/pdf/2012.10209.pdf)[[code]](https://github.com/thuiar/Adaptive-Decision-Boundary)[[bibtex]](/files/AAAI21-ADB/ADB.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Ting-En Lin, Rui Lyu. Discovering New Intents with Deep Aligned Clustering. 2021. <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2021, CCF-A</strong>)  [[paper]](https://arxiv.org/pdf/2012.08987.pdf)[[code]](https://github.com/thuiar/DeepAligned-Clustering) [[bibtex]](/files/AAAI21-DeepAligned/DeepAligned.bib)
-* Qianrui Zhou, Hua Xu, Hao Li, <strong>Hanlei Zhang</strong>, Xiaohan Zhang, Yifan Wang. Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition. 2024. <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2024, CCF-A</strong>)  [[paper]](https://arxiv.org/pdf/2312.14667.pdf)[[code]](https://github.com/thuiar/TCL-MAP) [[bibtex]](/files/AAAI24-TCL-MAP/TCL-MAP.bib)
+* Qianrui Zhou, Hua Xu, Hao Li, <strong>Hanlei Zhang</strong>, Xiaohan Zhang, Yifan Wang, Kai Gao. Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition. 2024. <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2024, CCF-A</strong>)  [[paper]](https://arxiv.org/pdf/2312.14667.pdf)[[code]](https://github.com/thuiar/TCL-MAP) [[bibtex]](/files/AAAI24-TCL-MAP/TCL-MAP.bib)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. 2020. <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF-A</strong>) [[paper]](https://arxiv.org/pdf/1911.08891.pdf)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
 (\* indicates equal contribution)
@@ -80,7 +80,7 @@ Reviewer / Program Committee Member:
 * ACL (2023, 2024)
 * IJCAI (2023, 2024)
 * KDD (2023)
-* NeurIPS (2023)
+* NeurIPS (2023, 2024)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=6oKT70Jy08qPF_EXR7PXexVX1X5I8S5uiTIntTb87ic&cmo=ff5353&cmn=ff5353'></script>
