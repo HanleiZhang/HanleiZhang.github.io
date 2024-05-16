@@ -22,7 +22,8 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## News
-* [Jan. 2024] Got one first-author full paper accepted by ICLR 2024. See you in Vienna!
+* [May. 2024] Got one first-author full paper accepted by ACL 2024. See you in Bangkok, Thailand!
+* [Jan. 2024] Got one first-author full paper accepted by ICLR 2024. See you in Vienna, Austria!
 * [Dec. 2023] Got one full paper accepted by AAAI 2024. Congratulations to Qianrui!
 * [Dec. 2023] Got one first-author full paper accepted by IEEE TKDE.
 * [Mar. 2023] Got one first-author full paper accepted by IEEE/ACM TASLP.
