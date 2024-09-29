@@ -60,7 +60,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ### Ph.D.
 
-* [Oct. 2024] <span style="color: red;"><strong>National Scholarship</strong></span> for PhD Student. 
+* [Oct. 2024] <span style="color: red;"><strong>National Scholarship</strong></span> for PhD Student. (**Top 2%**)
 * [Oct. 2023] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
 * [Dec. 2022] <strong>Apple Scholars in AI/ML Nomination</strong>.
 * [Oct. 2022] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
