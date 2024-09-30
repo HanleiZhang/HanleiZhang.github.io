@@ -16,7 +16,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Text Open Intent Recognition Platform ([Toolkit](https://github.com/thuiar/TEXTOIR))
 * Open Knowledge Discovery Reading List ([Link](https://github.com/thuiar/OKD-Reading-List))
 
-## Education and Experience
+## Education
 * Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
