@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently in my fifth year as a Ph.D. student in the THUIAR group with State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. [Hua Xu](https://thu-xuhua.github.io/), my research primarily focuses on open set recognition, clustering, multimodal machine learning, and natural language processing.
 
-My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. As the first author, I have published 8 papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI,  ACM MM, IEEE/ACM TASLP), and these works have been cited by over 410 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
+My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. As the first author, I have published 8 papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI,  ACM MM, IEEE/ACM TASLP), and these works have been cited by over 430 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
 
 * Multimodal Intent Recognition Datasets ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
 * Text Open Intent Recognition Platform ([Toolkit](https://github.com/thuiar/TEXTOIR))
@@ -25,6 +25,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
+* [Oct. 2024] Honored to receive the PhD National Scholarship and to be nominated for the Outstanding Scholarship at Tsinghua University!
 * [Aug. 2024] Our paper "Discovering New Intents with Deep Aligned Clustering" has reached its 100th citation!
 * [Jul. 2024] Our paper "Deep Open Intent Classification with Adaptive Decision Boundary" has reached its 100th citation!
 * [May. 2024] Got one first-author full paper accepted by ACL 2024. See you in Bangkok, Thailand!
@@ -60,6 +61,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ### Ph.D.
 
+* [Oct. 2024] <span style="color: red;"><strong>Outstanding Scholarship Nomination</strong></span>, Tsinghua University. (**Awarded to only 2 students in the entire CS department**)
 * [Oct. 2024] <span style="color: red;"><strong>National Scholarship</strong></span> for PhD Student. (**Top 1%**)
 * [Oct. 2023] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
 * [Dec. 2022] <strong>Apple Scholars in AI/ML Nomination</strong>.
