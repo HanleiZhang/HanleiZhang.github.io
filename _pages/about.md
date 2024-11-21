@@ -86,12 +86,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 ## Professional Services
 
 Reviewer / Program Committee Member:
-* ICLR (2025)
-* NeurIPS (2023, 2024)
-* ACL (2023, 2024)
-* KDD (2023)
-* AAAI (2021)
-* IJCAI (2023, 2024)
+ICLR (2025), NeurIPS (2023, 2024), CVPR (2025), ACL (2023, 2024), KDD (2023), AAAI (2021), IJCAI (2023, 2024)
 
 
 
