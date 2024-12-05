@@ -25,6 +25,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
+* [Dec. 2024] Honored to receive the Jiang Nanxiang Scholarship at Tsinghua University!
 * [Oct. 2024] Honored to receive the PhD National Scholarship and to be nominated for the Outstanding Scholarship at Tsinghua University!
 * [Aug. 2024] Our paper "Discovering New Intents with Deep Aligned Clustering" has reached its 100th citation!
 * [Jul. 2024] Our paper "Deep Open Intent Classification with Adaptive Decision Boundary" has reached its 100th citation!
@@ -61,6 +62,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ### Ph.D.
 
+* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University.
 * [Oct. 2024] <span style="color: red;"><strong>Outstanding Scholarship Nomination</strong></span>, Tsinghua University. (**Awarded to only 2 students in the entire CS department**)
 * [Oct. 2024] <span style="color: red;"><strong>National Scholarship</strong></span> for PhD Student. (**Top 1%**)
 * [Oct. 2023] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
