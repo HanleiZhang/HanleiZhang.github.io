@@ -66,7 +66,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ### Ph.D.
 
-* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to 20 students out of all graduate students**)
+* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to only 20 students out of all graduate students**)
 * [Oct. 2024] <strong>Outstanding Scholarship Nomination</strong>, Tsinghua University. (**Awarded to only 2 students in the entire CS department**)
 * [Oct. 2024] <strong>National Scholarship</strong> for PhD Student. (**Top 1%**)
 * [Oct. 2023] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
