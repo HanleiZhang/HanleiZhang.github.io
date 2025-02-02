@@ -67,19 +67,19 @@ My work centers around analyzing human intentions in open-world and multimodal s
 ### Ph.D.
 
 * [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to only 20 students out of all graduate students**)
-* [Oct. 2024] <strong>Nomination for the Special Scholarship of Tsinghua University</strong>. (**Awarded to only 2 students in the entire CS department**)
+* [Oct. 2024] Nomination for the Special Scholarship of Tsinghua University. (**Awarded to only 2 students in the entire CS department**)
 * [Oct. 2024] <strong>National Scholarship</strong> for PhD Student. (**Top 1%**)
-* [Oct. 2023] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
-* [Dec. 2022] <strong>Apple Scholars in AI/ML Nomination</strong>.
-* [Oct. 2022] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
-* [Sep. 2022] <strong>Longfor Scholarship</strong>, DCST, Tsinghua University.
-* [Oct. 2021] <strong>Overall Excellence Scholarship (First Prize)</strong>, Tsinghua University. (**Top 5%**)
+* [Oct. 2023] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
+* [Dec. 2022] Apple Scholars in AI/ML Nomination.
+* [Oct. 2022] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
+* [Sep. 2022] Longfor Scholarship, DCST, Tsinghua University.
+* [Oct. 2021] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
 
 ### Bachelor
-* [Jun. 2020] <strong>Beijing Outstanding graduates</strong>, from Beijing Jiaotong University. 
+* [Jun. 2020] Beijing Outstanding graduates, from Beijing Jiaotong University. 
 * [Apr. 2019] <strong>Meritorious Winner</strong>, MCM/ICM 2019.
 * [Nov. 2018] <strong>National Scholarship</strong> for Undergraduate Student ([2018 No.01051](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)). (**Top 2%**)
-* [Nov. 2018] <strong>Bronze Medal</strong>, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018. 
+* [Nov. 2018] Bronze Medal, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018. 
 * [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)
 * [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. (**Top 5%**)
 
