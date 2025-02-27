@@ -58,7 +58,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ## Preprints 
 
-* <strong>Hanlei Zhang</strong>\*, Qianrui Zhou\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2024. <i>IEEE Transactions on Multimedia Major Revision.</i> [[paper]](https://arxiv.org/abs/2412.12453) [[code]](https://github.com/thuiar/MIntOOD) 
+* <strong>Hanlei Zhang</strong>\*, Qianrui Zhou\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2024. <i>IEEE Transactions on Multimedia Minor Revision.</i> [[paper]](https://arxiv.org/abs/2412.12453) [[code]](https://github.com/thuiar/MIntOOD) 
   
 (\* indicates equal contribution)
 
