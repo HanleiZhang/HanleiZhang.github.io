@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently in my fifth year as a Ph.D. student in the THUIAR group with State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. [Hua Xu](https://thu-xuhua.github.io/), my research primarily focuses on open set recognition, clustering, multimodal machine learning, and multimodal large language models.
 
-My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. As the first author, I have published 8 papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI,  ACM MM, IEEE/ACM TASLP), and these works have been cited by over 500 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
+My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. As the first author, I have published 9 papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI,  ACM MM, IEEE TMM, IEEE/ACM TASLP), and these works have been cited by over 500 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
 
 * Multimodal Intent Recognition Datasets ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
 * Text Open Intent Recognition Platform ([Toolkit](https://github.com/thuiar/TEXTOIR))
@@ -25,6 +25,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
+* [Apr. 2025] Got one first-author full paper accepted by IEEE TMM.
 * [Dec. 2024] Honored to receive the Jiang Nanxiang Scholarship at Tsinghua University!
 * [Oct. 2024] Honored to receive the PhD National Scholarship and to be nominated for the Outstanding Scholarship at Tsinghua University!
 * [Aug. 2024] Our paper "Discovering New Intents with Deep Aligned Clustering" has reached its 100th citation!
@@ -45,6 +46,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 ## Publications 
 
+* <strong>Hanlei Zhang</strong>\*, Qianrui Zhou\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2024. <i>Accepted by IEEE Transactions on Multimedia.</i> [[paper]](https://arxiv.org/abs/2412.12453) [[code]](https://github.com/thuiar/MIntOOD) 
 * <strong>Hanlei Zhang</strong>, Hua Xu, Fei Long, Xin Wang, Kai Gao. Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances. 2024. <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.</i> (<strong>ACL 2024 Main, CCF-A</strong>) [[paper]](https://aclanthology.org/2024.acl-long.2/) [[code]](https://github.com/thuiar/UMC) [[bibtex]](/files/ACL24-UMC/UMC.bib)
 * <strong>Hanlei Zhang</strong>\*, Xin Wang\*, Hua Xu, Qianrui Zhou, Kai Gao, Jianhua Su, Jinyue Zhao, Wenrui Li, Yanting Chen. MIntRec2.0: A Large-scale Benchmark Dataset for Multimodal Intent Recognition and Out-of-scope Detection in Conversations. 2024. <i>Proceedings of the 12th International Conference on Learning Representations.</i> (<strong>ICLR 2024, CAAI-A</strong>) [[paper]](https://openreview.net/forum?id=nY9nITZQjc)  [[code]](https://github.com/thuiar/MIntRec2.0) [[bibtex]](/files/ICLR24-MIntRec2.0/MIntRec2.0.bib)
 * <strong>Hanlei Zhang</strong>, Hua Xu, Xin Wang, Fei Long, Kai Gao. A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery. 2023. <i>IEEE Transactions on Knowledge and Data Engineering.</i> (<strong>IEEE TKDE, CCF-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/10349963)  [[code]](https://github.com/thuiar/TEXTOIR/tree/main/open_intent_discovery) [[bibtex]](/files/TKDE23-USNID/USNID.bib)
@@ -56,10 +58,6 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Qianrui Zhou, Hua Xu, Hao Li, <strong>Hanlei Zhang</strong>, Xiaohan Zhang, Yifan Wang, Kai Gao. Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition. 2024. <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2024, CCF-A</strong>)  [[paper]](https://arxiv.org/pdf/2312.14667.pdf)[[code]](https://github.com/thuiar/TCL-MAP) [[bibtex]](/files/AAAI24-TCL-MAP/TCL-MAP.bib)
 * Ting-En Lin, Hua Xu, <strong>Hanlei Zhang</strong>. Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement. 2020. <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2020, CCF-A</strong>) [[paper]](https://arxiv.org/pdf/1911.08891.pdf)[[code]](https://github.com/thuiar/CDAC-plus)[[bibtex]](/files/AAAI20-CDAC+/CDAC+.bib)[[slide]](/files/AAAI20-CDAC+/slices.pdf)
 
-## Preprints 
-
-* <strong>Hanlei Zhang</strong>\*, Qianrui Zhou\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2024. <i>IEEE Transactions on Multimedia Minor Revision.</i> [[paper]](https://arxiv.org/abs/2412.12453) [[code]](https://github.com/thuiar/MIntOOD) 
-  
 (\* indicates equal contribution)
 
 ## Honor and Awards
@@ -93,7 +91,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 
 Reviewer / Program Committee Member:
 
-ICLR (2025), NeurIPS (2023, 2024), CVPR (2025), ACL (2023, 2024), KDD (2023), AAAI (2021), IJCAI (2023, 2024)
+ICLR (2025), NeurIPS (2023, 2024), CVPR (2025), ACL (2023, 2024, 2025), KDD (2023), AAAI (2021), IJCAI (2023, 2024)
 
 
 
