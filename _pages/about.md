@@ -27,7 +27,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 ## News
 * [Apr. 2025] Got one first-author full paper accepted by IEEE TMM.
 * [Dec. 2024] Honored to receive the Jiang Nanxiang Scholarship at Tsinghua University!
-* [Oct. 2024] Honored to receive the PhD National Scholarship and to be nominated for the Outstanding Scholarship at Tsinghua University!
+* [Oct. 2024] Honored to receive the PhD National Scholarship and to be nominated for the Special Scholarship of Tsinghua University!
 * [Aug. 2024] Our paper "Discovering New Intents with Deep Aligned Clustering" has reached its 100th citation!
 * [Jul. 2024] Our paper "Deep Open Intent Classification with Adaptive Decision Boundary" has reached its 100th citation!
 * [May. 2024] Got one first-author full paper accepted by ACL 2024. See you in Bangkok, Thailand!
