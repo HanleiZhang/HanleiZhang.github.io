@@ -25,6 +25,7 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
+* [Apr. 2025] Released [MMLA](https://github.com/thuiar/MMLA), the first comprehensive multimodal language analysis benchmark for evaluating foundation models! 
 * [Apr. 2025] Got one first-author full paper accepted by IEEE TMM.
 * [Dec. 2024] Honored to receive the Jiang Nanxiang Scholarship at Tsinghua University!
 * [Oct. 2024] Honored to receive the PhD National Scholarship and to be nominated for the Special Scholarship of Tsinghua University!
@@ -43,7 +44,10 @@ My work centers around analyzing human intentions in open-world and multimodal s
 * [Dec. 2020] Got two first-author full papers accepted at AAAI 2021.
 * [Nov. 2019] Got one full paper accepted at AAAI 2020.
 
+## Preprints
 
+* <strong>Hanlei Zhang</strong>\*, Zhuohang Li\*, Yeshuang Zhu, Hua Xu, Peiwu Wang, Haige Zhu, Jie Zhou, Jinchao Zhang. Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark. 2025. [[arXiv]](https://arxiv.org/abs/2504.16427) [[code]](https://github.com/thuiar/MMLA)
+  
 ## Publications 
 
 * <strong>Hanlei Zhang</strong>\*, Qianrui Zhou\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2024. <i>Accepted by IEEE Transactions on Multimedia.</i> (<strong>IEEE TMM, CAAI-A</strong>) [[paper]](https://arxiv.org/abs/2412.12453) [[code]](https://github.com/thuiar/MIntOOD) 
