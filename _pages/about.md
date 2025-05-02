@@ -12,10 +12,10 @@ I am currently in my fifth year as a Ph.D. student in the THUIAR group with Stat
 
 My research focuses on analyzing the cognitive-level semantics (e.g., intent, emotion, dialogue acts) in human-system and human-human interactions in real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I have made foundational and pioneering contributions in the fields of natural language processing and multimodal machine learning. Specifically, I have authored 9 first-author papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 530 times (Google Scholar Citations). A selection of my representative open-source works is listed below.
 
-* Multimodal Language Analysis Benchmark: [MMLA](https://github.com/thuiar/MMLA)
-* Multimodal Intent Recognition Datasets: ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
-* Open Intent Recognition Platforms: ([TEXTOIR](https://github.com/thuiar/TEXTOIR), [MMIA](https://github.com/thuiar/mmia)
-* Open Knowledge Discovery Reading List: ([Link](https://github.com/thuiar/OKD-Reading-List))
+* **Benchmark**: Multimodal Language Analysis for Large Language Models: [MMLA](https://github.com/thuiar/MMLA)
+* **Datasets**: Multimodal Intent Recognition Series Datasets: [MIntRec](https://github.com/thuiar/MIntRec) and [MIntRec2.0](https://github.com/thuiar/MIntRec2.0)
+* **Platforms**: Text Open Intent Recognition: [TEXTOIR](https://github.com/thuiar/TEXTOIR), Multimodal Intent Analysis: [MMIA](https://github.com/thuiar/mmia)
+* **Reading List**: Open Knowledge Discovery: [OKD-Reading-List](https://github.com/thuiar/OKD-Reading-List)
 
 ## Education
 * Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
