@@ -10,11 +10,12 @@ redirect_from:
 
 I am currently in my fifth year as a Ph.D. student in the THUIAR group with State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. [Hua Xu](https://thu-xuhua.github.io/), my research primarily focuses on open set recognition, clustering, multimodal machine learning, and multimodal large language models.
 
-My work centers around analyzing human intentions in open-world and multimodal scenarios, leading to the development of significant tasks including open intent detection, new intent discovery, and multimodal intent analysis. In pursuit of advancing research in these domains, we have contributed a range of foundational and pioneering works. This includes the development of algorithms such as ADB, DA-ADB, DeepAligned, and USNID, as well as the creation of datasets like MIntRec and MIntRec2.0, and toolkits such as TEXTOIR. I have published 9 first-author papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), and these works have been cited by over 530 times ([Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=PS5KVSQAAAAJ)).
+My research focuses on analyzing the cognitive-level semantics (e.g., intent, emotion, dialogue acts) in human-system and human-human interactions in real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I have made foundational and pioneering contributions in the fields of natural language processing and multimodal machine learning. Specifically, I have authored 9 first-author papers in prestigious AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 530 times (Google Scholar Citations). A selection of my representative open-source works is listed below.
 
-* Multimodal Intent Recognition Datasets ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
-* Text Open Intent Recognition Platform ([Toolkit](https://github.com/thuiar/TEXTOIR))
-* Open Knowledge Discovery Reading List ([Link](https://github.com/thuiar/OKD-Reading-List))
+* Multimodal Language Analysis Benchmark: [MMLA](https://github.com/thuiar/MMLA)
+* Multimodal Intent Recognition Datasets: ([MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0))
+* Open Intent Recognition Platforms: ([TEXTOIR](https://github.com/thuiar/TEXTOIR), [MMIA](https://github.com/thuiar/mmia)
+* Open Knowledge Discovery Reading List: ([Link](https://github.com/thuiar/OKD-Reading-List))
 
 ## Education
 * Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
