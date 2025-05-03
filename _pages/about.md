@@ -12,14 +12,17 @@ I am currently in my fifth year as a Ph.D. student in the THUIAR group with Stat
 
 My research focuses on analyzing cognitive-level semantics (e.g., intention) in human-system and human-human interactions in real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I have made foundational and pioneering contributions, ranging from datasets and benchmarks to algorithms and platforms, in the fields of natural language processing and multimodal machine learning. With these contributions, I have published 9 first-author papers in top-tier AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 530 times on [Google Scholar](https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en). My systematic research works are listed below.
 
-* **Benchmark**: Multimodal Language Analysis for Large Language Models: [MMLA](https://github.com/thuiar/MMLA)
-* **Datasets**: Multimodal Intent Recognition Series Datasets: [MIntRec](https://github.com/thuiar/MIntRec) and [MIntRec2.0](https://github.com/thuiar/MIntRec2.0)
+* **Benchmark and Datasets**:
+  - Multimodal Language Analysis Benchmark for Large Language Models: [MMLA](https://github.com/thuiar/MMLA)
+  - Multimodal Intent Recognition Series Datasets: [MIntRec](https://github.com/thuiar/MIntRec) and [MIntRec2.0](https://github.com/thuiar/MIntRec2.0)
 * **Algorithms**:
   - Adaptive Deicision Boundary: [ADB](https://github.com/thuiar/ADB)
   - Multimodal Out-of-distribution Detection: [MIntOOD](https://github.com/thuiar/MIntOOD)
   - Unsupervised and Semi-supervised Clustering: [DeepAligned](https://github.com/thuiar/DeepAligned) and [USNID](https://github.com/thuiar/TEXTOIR)
   - Unsupervised Multimodal Clustering: [UMC](https://github.com/thuiar/UMC)
-* **Platforms**: Text Open Intent Recognition: [TEXTOIR](https://github.com/thuiar/TEXTOIR), Multimodal Intent Analysis: [MMIA](https://github.com/thuiar/mmia)
+* **Platforms**:
+  - Text Open Intent Recognition Platform: [TEXTOIR](https://github.com/thuiar/TEXTOIR)
+  - Multimodal Intent Analysis Platform: [MMIA](https://github.com/thuiar/mmia)
 
 I welcome research collaborations from both academia and industry. Please feel free to contact me at zhang-hl20@mails.tsinghua.edu.cn!
 
