@@ -14,7 +14,11 @@ My research focuses on analyzing cognitive-level semantics (e.g., intention) in 
 
 * **Benchmark**: Multimodal Language Analysis for Large Language Models: [MMLA](https://github.com/thuiar/MMLA)
 * **Datasets**: Multimodal Intent Recognition Series Datasets: [MIntRec](https://github.com/thuiar/MIntRec) and [MIntRec2.0](https://github.com/thuiar/MIntRec2.0)
-* **Algorithms**: Adaptive Deicision Boundary: [ADB](https://github.com/thuiar/ADB), Multimodal Out-of-distribution Detection: [MIntOOD](https://github.com/thuiar/MIntOOD), Unsupervised and Semi-supervised Clustering: [DeepAligned](https://github.com/thuiar/DeepAligned), [USNID](https://github.com/thuiar/TEXTOIR), Multimodal Clustering: [UMC](https://github.com/thuiar/UMC)
+* **Algorithms**:
+  - Adaptive Deicision Boundary: [ADB](https://github.com/thuiar/ADB)
+  - Multimodal Out-of-distribution Detection: [MIntOOD](https://github.com/thuiar/MIntOOD)
+  - Unsupervised and Semi-supervised Clustering: [DeepAligned](https://github.com/thuiar/DeepAligned) and [USNID](https://github.com/thuiar/TEXTOIR)
+  - Unsupervised Multimodal Clustering: [UMC](https://github.com/thuiar/UMC)
 * **Platforms**: Text Open Intent Recognition: [TEXTOIR](https://github.com/thuiar/TEXTOIR), Multimodal Intent Analysis: [MMIA](https://github.com/thuiar/mmia)
 
 I welcome research collaborations from both academia and industry. Please feel free to contact me at zhang-hl20@mails.tsinghua.edu.cn!
