@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my fifth year as a Ph.D. student in the THUIAR group with State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. [Hua Xu](https://thu-xuhua.github.io/), my research primarily focuses on open set recognition, clustering, multimodal machine learning, and multimodal large language models.
+I received my PhD in the State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology (DCST), Tsinghua University, Beijing, China. Under the guidance of Prof. [Hua Xu](https://thu-xuhua.github.io/), my research primarily focuses on open set recognition, clustering, multimodal machine learning, and multimodal large language models.
 
 My research focuses on analyzing cognitive-level semantics (e.g., intention) in human-system and human-human interactions in real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I have made foundational and pioneering contributions, ranging from datasets and benchmarks to algorithms and platforms, in the fields of natural language processing and multimodal machine learning. With these contributions, I have published 9 first-author papers in top-tier AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 540 times on [Google Scholar](https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en). My systematic research works are listed below.
 
@@ -27,7 +27,7 @@ My research focuses on analyzing cognitive-level semantics (e.g., intention) in 
 I welcome research collaborations from both academia and industry. Please feel free to contact me at zhang-hl20@mails.tsinghua.edu.cn!
 
 ## Education
-* Sep. 2020 - now. Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
+* Sep. 2020 - Jun. 2025. PhD, Department of Computer Science and Technology, Tsinghua University, China.
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## Experience
@@ -35,6 +35,7 @@ I welcome research collaborations from both academia and industry. Please feel f
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
+* [May. 2025] I'm thrilled to announce that I have successfully defended my PhD dissertation and obtained my doctoral degree!
 * [Apr. 2025] Released [MMLA](https://github.com/thuiar/MMLA), the first comprehensive multimodal language analysis benchmark for evaluating foundation models! 
 * [Apr. 2025] Got one first-author full paper accepted by IEEE TMM.
 * [Dec. 2024] Honored to receive the Jiang Nanxiang Scholarship at Tsinghua University!
