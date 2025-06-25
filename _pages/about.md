@@ -31,7 +31,7 @@ I welcome research collaborations from both academia and industry. Please feel f
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## Experience
-* Aug. 2024 - now. Research Internship, Wechat AI, Pattern Recognition Center, Tencent, Beijing, China.
+* Aug. 2024 - Jun. 2025. Research Internship, Wechat AI, Pattern Recognition Center, Tencent, Beijing, China.
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
