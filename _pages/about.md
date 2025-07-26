@@ -31,7 +31,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## Working Experience
-* Jul. 2025 - now. Kirin AI, Hisilicon, Huawei Technologies ([TopMind](https://career.huawei.com/reccampportal/portal5/topminds.html)), Beijing, China. 
+* Jul. 2025 - now. Kirin AI, Hisilicon, Huawei Technologies, Beijing, China. 
 * Aug. 2024 - Jun. 2025. Research Internship, Wechat AI, Pattern Recognition Center, Tencent, Beijing, China.
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
