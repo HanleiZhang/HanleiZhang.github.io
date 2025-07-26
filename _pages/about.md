@@ -79,7 +79,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 
 ## Honor and Awards
 
-### Ph.D.
+### PhD
 
 * [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to only 20 students out of all graduate students**)
 * [Oct. 2024] Nomination for the Special Scholarship of Tsinghua University. (**Awarded to only 2 students in the entire CS department**)
