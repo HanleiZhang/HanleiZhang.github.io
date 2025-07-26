@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Kirin AI, Hisilicon, Huawei Technologies, selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" Program. My work focuses on lightweight and high-performance multimodal large language models. Prior to this, I received my PhD degree from the State Key Laboratory of Intelligent Technology and Systems in the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China, working with Prof. [Hua Xu](https://thu-xuhua.github.io/). I'm also interested in open set recognition, clustering, and multimodal machine learning.  
+I am a researcher at Hisilicon Kirin AI, Huawei Technologies, selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" Program. My work focuses on lightweight and high-performance multimodal large language models in real applications. Prior to this, I received my PhD degree from the State Key Laboratory of Intelligent Technology and Systems in the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China, working with Prof. [Hua Xu](https://thu-xuhua.github.io/). I'm also interested in open set recognition, clustering, and multimodal machine learning.  
 
 During my PhD, my research focused on analyzing cognitive-level semantics (e.g., intention) in human-system and human-human interactions within real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I made foundational and pioneering contributions, ranging from datasets and benchmarks to algorithms and platforms in natural language processing and multimodal machine learning. These contributions include 9 first-author papers published in top-tier AI journals and conferences (e.g., ICLR, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 600 times on [Google Scholar](https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en). My systematic research works are listed below.
 
@@ -31,12 +31,12 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 * Sep. 2016 - Jun. 2020. B.S., Department of Computer Science and Technology, Beijing Jiaotong University, China.
 
 ## Working Experience
-* Jul. 2025 - now. Kirin AI, Hisilicon, Huawei Technologies, Beijing, China. 
+* Jul. 2025 - now. Hisilicon Kirin AI, Huawei Technologies, Beijing, China. 
 * Aug. 2024 - Jun. 2025. Research Internship, Wechat AI, Pattern Recognition Center, Tencent, Beijing, China.
 * Dec. 2018 - Jun. 2019. Visiting student in THUMT, advised by Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
-* [Jul. 2025] I joined Kirin AI, Hisilicon, Huawei Technologies to focus on exploring lightweight and high-performance multimodal large language models.
+* [Jul. 2025] I joined Hisilicon Kirin AI, Huawei Technologies to focus on exploring lightweight and high-performance multimodal large language models in real applications.
 * [May. 2025] I'm thrilled to announce that I have successfully defended my PhD dissertation and obtained my doctoral degree!
 * [Apr. 2025] Released [MMLA](https://github.com/thuiar/MMLA), the first comprehensive multimodal language analysis benchmark for evaluating foundation models! 
 * [Apr. 2025] Got one first-author full paper accepted by IEEE TMM.
