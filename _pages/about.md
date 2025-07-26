@@ -33,7 +33,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 ## Working Experience
 * Jul. 2025 - now. Hisilicon Kirin AI, Huawei Technologies, Beijing, China. 
 * Aug. 2024 - Jun. 2025. Research Internship, Wechat AI, Pattern Recognition Center, Tencent, Beijing, China.
-* Dec. 2018 - Jun. 2019. Visiting student in THUMT, working with Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
+* Dec. 2018 - Jun. 2019. Visiting student in THUNLP, working with Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
 * [Jul. 2025] I joined Hisilicon Kirin AI, Huawei Technologies to focus on exploring lightweight and high-performance multimodal large language models in real applications.
