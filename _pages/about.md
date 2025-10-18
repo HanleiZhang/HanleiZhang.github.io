@@ -80,8 +80,8 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 
 ## Honor and Awards
 
-* [Oct. 2025] <strong>CIPS Doctoral Dissertation Award</strong>. (Awarded to **only 10 PhD graduates in China** annually) 
-* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (Awarded to **only 20 students across the entire university** annually) 
+* [Oct. 2025] <strong>CIPS Doctoral Dissertation Award</strong>. (Awarded to **only 10 PhD graduates in China** annually)
+* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>. (Awarded to **only 20 students across Tsinghua university** annually) 
 * [Oct. 2024] Nomination for the Special Scholarship of Tsinghua University.
 * [Oct. 2024] <strong>National Scholarship</strong> for PhD Student. (**Top 1%**)
 * [Oct. 2023] Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%)
