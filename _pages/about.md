@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Hisilicon Kirin AI, Huawei Technologies, selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" Program. My work focuses on lightweight and high-performance multimodal large language models in real applications. Prior to this, I received my PhD degree from the State Key Laboratory of Intelligent Technology and Systems in the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China, working with Prof. [Hua Xu](https://scholar.google.com/citations?user=oyOaLDEAAAAJ&hl=en). I'm also interested in open set recognition, clustering, and multimodal machine learning.  
+I am a researcher at Hisilicon Kirin AI, Huawei Technologies, selected for the "[Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html)" Program. My work focuses on lightweight and high-performance multimodal large language models in real applications. Prior to this, I received my PhD degree from the State Key Laboratory of Intelligent Technology and Systems in the Department of Computer Science and Technology (DCST) at Tsinghua University, Beijing, China, working with Prof. [Hua Xu](https://scholar.google.com/citations?user=oyOaLDEAAAAJ&hl=en). I'm also interested in open set recognition, clustering, and multimodal machine learning. 
 
-During my PhD, my research focused on analyzing cognitive-level semantics (e.g., intention) in human-system and human-human interactions within real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I made foundational and pioneering contributions, ranging from datasets and benchmarks to algorithms and platforms in natural language processing and multimodal machine learning. These contributions include **10 first-author papers** published in top-tier AI journals and conferences (e.g., ICLR, NeurIPS, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 600 times on [Google Scholar](https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en). My systematic research works are listed below.
+During my PhD, my research focused on analyzing cognitive-level semantics (e.g., intention) in human-system and human-human interactions within real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I made foundational and pioneering contributions, ranging from datasets and benchmarks to algorithms and platforms in natural language processing and multimodal machine learning. These contributions include 10 first-author papers published in top-tier AI journals and conferences (e.g., ICLR, NeurIPS, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 600 times on [Google Scholar](https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en). I was honored to be a recipient of the **Chinese Information Processing Society of China (CIPS) Doctoral Dissertation Award** in 2025 (Top 10 nationwide).  My systematic research works are listed below. 
 
 * **Benchmark and Datasets**:
   - Multimodal Language Analysis Benchmark for Large Language Models: [MMLA](https://github.com/thuiar/MMLA)
@@ -36,6 +36,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 * Dec. 2018 - Jun. 2019. Visiting student in THUNLP, working with Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
+* [Oct. 2025] I'm thrilled to announce that I was selected the recipient of the Chinese Information Processing Society of China (CIPS) Doctoral Dissertation Award in 2025 (Top 10 nationwide)!
 * [Sep. 2025] Got one first-author full paper accepted by NeurIPS 2025!
 * [Jul. 2025] I joined Hisilicon Kirin AI, Huawei Technologies to focus on exploring lightweight and high-performance multimodal large language models in real applications.
 * [May. 2025] I'm thrilled to announce that I have successfully defended my PhD dissertation and obtained my doctoral degree!
@@ -79,22 +80,15 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 
 ## Honor and Awards
 
-### PhD
-
-* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to only 20 students out of all graduate students**)
-* [Oct. 2024] Nomination for the Special Scholarship of Tsinghua University. (**Awarded to only 2 students in the entire CS department**)
+* [Oct. 2025] <strong>CIPS Doctoral Dissertation Award</strong>. (**Awarded to only 10 PhD graduates in China annually**) 
+* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to only 20 students out of all graduate students**) 
+* [Oct. 2024] Nomination for the Special Scholarship of Tsinghua University.
 * [Oct. 2024] <strong>National Scholarship</strong> for PhD Student. (**Top 1%**)
 * [Oct. 2023] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
 * [Dec. 2022] Apple Scholars in AI/ML Nomination.
 * [Oct. 2022] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
-* [Sep. 2022] Longfor Scholarship, DCST, Tsinghua University.
-* [Oct. 2021] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
-
-### Bachelor
-* [Jun. 2020] Beijing Outstanding graduates. 
-* [Apr. 2019] Meritorious Winner, MCM/ICM 2019.
+* [Oct. 2021] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**) 
 * [Nov. 2018] <strong>National Scholarship</strong> for Undergraduate Student ([2018 No.01051](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)). (**Top 2%**)
-* [Nov. 2018] Bronze Medal, International Collegiate Programming Contest (ACM-ICPC) Asia Regional Beijing Site 2018. 
 * [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)
 * [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. (**Top 5%**)
 
