@@ -80,17 +80,17 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 
 ## Honor and Awards
 
-* [Oct. 2025] <strong>CIPS Doctoral Dissertation Award</strong>. (**Awarded to only 10 PhD graduates in China annually**) 
-* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (**Awarded to only 20 students out of all graduate students**) 
+* [Oct. 2025] <strong>CIPS Doctoral Dissertation Award</strong>. (Awarded to **only 10 PhD graduates in China** annually) 
+* [Dec. 2024] <strong>Jiang Nanxiang Scholarship</strong>, Tsinghua University. (Awarded to **only 20 students across the entire university** annually) 
 * [Oct. 2024] Nomination for the Special Scholarship of Tsinghua University.
 * [Oct. 2024] <strong>National Scholarship</strong> for PhD Student. (**Top 1%**)
-* [Oct. 2023] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
+* [Oct. 2023] Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%)
 * [Dec. 2022] Apple Scholars in AI/ML Nomination.
-* [Oct. 2022] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)
-* [Oct. 2021] Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**) 
+* [Oct. 2022] Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%)
+* [Oct. 2021] Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%) 
 * [Nov. 2018] <strong>National Scholarship</strong> for Undergraduate Student ([2018 No.01051](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)). (**Top 2%**)
 * [Nov. 2017] <strong>National Scholarship</strong> for Undergraduate Student ([2017 No.01086](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)
-* [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. (**Top 5%**)
+* [Nov. 2017] <strong>First prize</strong>, the Chinese Mathematics Competitions for College Students. (Top 5%)
 
 ## Invited Talks
 
