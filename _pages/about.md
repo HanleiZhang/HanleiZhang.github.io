@@ -103,7 +103,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 Reviewer / Program Committee Member:
 
 Conferences: ICLR (2025), NeurIPS (2023, 2024), CVPR (2025), ACL (2023, 2024, 2025), KDD (2023), AAAI (2021, 2026), ACM MM (2025) IJCAI (2023, 2024)   
-Journals: IEEE TNNLS, PR
+Journals: IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Pattern Recognition.
 
 
 
