@@ -14,9 +14,9 @@ During my PhD, my research focused on analyzing cognitive-level semantics (e.g.,
 
 * **Benchmark and Datasets**:
   - Multimodal Language Analysis Benchmark for Large Language Models: [MMLA (NeurIPS 2025)](https://arxiv.org/abs/2504.16427)
-  - Multimodal Intent Recognition Series Datasets: [MIntRec (ACM MM 2022)](https://dl.acm.org/doi/10.1145/3503161.3547906) and [MIntRec2.0 (ICLR 2024)](https://openreview.net/forum?id=nY9nITZQjc)
+  - Multimodal Intent Recognition Datasets: [MIntRec (ACM MM 2022)](https://dl.acm.org/doi/10.1145/3503161.3547906) and [MIntRec2.0 (ICLR 2024)](https://openreview.net/forum?id=nY9nITZQjc)
 * **Algorithms**:
-  - Adaptive Deicision Boundary: [ADB (AAAI 2021)](https://arxiv.org/abs/2012.10209) and EDB (AAAI 2026)
+  - Adaptive Deicision Boundary: [DA-ADB (AAAI 2021, IEEE/ACM TASLP)](https://ieeexplore.ieee.org/document/10097558) and EDB (AAAI 2026)
   - Multimodal Out-of-distribution Detection: [MIntOOD (IEEE TMM 2025)](https://ieeexplore.ieee.org/document/11195733)
   - Unsupervised and Semi-supervised Clustering: [DeepAligned (AAAI 2021)](https://arxiv.org/abs/2012.08987) and [USNID (IEEE TKDE 2023)](https://ieeexplore.ieee.org/document/10349963)
   - Unsupervised Multimodal Clustering: [UMC (ACL 2024)](https://aclanthology.org/2024.acl-long.2/)
