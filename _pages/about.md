@@ -13,15 +13,15 @@ I am a researcher at Hisilicon Kirin AI, Huawei Technologies, selected for the "
 During my PhD, my research focused on analyzing cognitive-level semantics (e.g., intention) in human-system and human-human interactions within real-world complex environments. These interactions involve challenges related to open-world scenarios (e.g., open-set recognition, out-of-distribution detection, and novel-category discovery), multimodal data (e.g., multimodal fusion and representation), and low-resource settings (e.g., unsupervised and semi-supervised learning). To address these challenges, I made foundational and pioneering contributions, ranging from datasets and benchmarks to algorithms and platforms in natural language processing and multimodal machine learning. These contributions include 10 first-author full papers published in top-tier AI journals and conferences (e.g., ICLR, NeurIPS, IEEE TKDE, ACL, AAAI, IEEE TMM, ACM MM, and IEEE/ACM TASLP), which have been cited over 660 times on [Google Scholar](https://scholar.google.com/citations?user=PS5KVSQAAAAJ&hl=en). I was honored to be a recipient of the **Chinese Information Processing Society of China (CIPS) Doctoral Dissertation Award** in 2025 (Top 10 nationwide).  My systematic research works are listed below. 
 
 * **Benchmark and Datasets**:
-  - Multimodal Language Analysis Benchmark for Large Language Models: [MMLA, NeurIPS 2025](https://github.com/thuiar/MMLA)
-  - Multimodal Intent Recognition Series Datasets: [MIntRec, ACM MM 2022](https://github.com/thuiar/MIntRec) and [MIntRec2.0, ICLR 2024](https://github.com/thuiar/MIntRec2.0)
+  - Multimodal Language Analysis Benchmark for Large Language Models: [MMLA (NeurIPS 2025)](https://arxiv.org/abs/2504.16427)
+  - Multimodal Intent Recognition Series Datasets: [MIntRec (ACM MM 2022)](https://dl.acm.org/doi/10.1145/3503161.3547906) and [MIntRec2.0 (ICLR 2024)](https://openreview.net/forum?id=nY9nITZQjc)
 * **Algorithms**:
-  - Adaptive Deicision Boundary: [ADB, AAAI 2021](https://github.com/thuiar/ADB) [EDB, AAAI 2026]
-  - Multimodal Out-of-distribution Detection: [MIntOOD, IEEE TMM 2025](https://github.com/thuiar/MIntOOD)
-  - Unsupervised and Semi-supervised Clustering: [DeepAligned, AAAI 2021](https://github.com/thuiar/DeepAligned) and [USNID, IEEE TKDE 2023](https://github.com/thuiar/TEXTOIR)
-  - Unsupervised Multimodal Clustering: [UMC, ACL 2024](https://github.com/thuiar/UMC)
+  - Adaptive Deicision Boundary: [ADB (AAAI 2021)](https://arxiv.org/abs/2012.10209) and EDB (AAAI 2026)
+  - Multimodal Out-of-distribution Detection: [MIntOOD (IEEE TMM 2025)](https://ieeexplore.ieee.org/document/11195733)
+  - Unsupervised and Semi-supervised Clustering: [DeepAligned (AAAI 2021)](https://arxiv.org/abs/2012.08987) and [USNID (IEEE TKDE 2023)](https://ieeexplore.ieee.org/document/10349963)
+  - Unsupervised Multimodal Clustering: [UMC (ACL 2024)](https://aclanthology.org/2024.acl-long.2/)
 * **Platforms**:
-  - Text Open Intent Recognition Platform: [TEXTOIR, ACL 2021](https://github.com/thuiar/TEXTOIR)
+  - Text Open Intent Recognition Platform: [TEXTOIR (ACL 2021)](https://aclanthology.org/2021.acl-demo.20.pdf)
   - Multimodal Intent Analysis Platform: [MMIA](https://github.com/thuiar/mmia)
 
 I seek self-motivated researchers to join our team and explore new frontiers, and welcome research collaborations from both academia and industry. Please feel free to contact me at zhang-hl20@mail.tsinghua.org.cn!
