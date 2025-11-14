@@ -33,7 +33,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 ## Working Experience
 * Jul. 2025 - now. Hisilicon Kirin AI, Huawei Technologies, Beijing, China. 
 * Aug. 2024 - Jun. 2025. Research Internship, Wechat AI, Pattern Recognition Center, Tencent, Beijing, China.
-* Dec. 2018 - Jun. 2019. Visiting student in THUNLP, working with Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
+* Dec. 2018 - Jun. 2019. Research Internship, THUNLP, working with Prof. [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/), Tsinghua University, China.
 
 ## News
 * [Nov. 2025] Got one co-first-author full paper accepted by AAAI 2026! Congratulations to Yuetian!
