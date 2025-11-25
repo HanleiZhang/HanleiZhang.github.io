@@ -16,7 +16,7 @@ During my PhD, my research focused on analyzing cognitive-level semantics (e.g.,
   - Multimodal Language Analysis Benchmark for Large Language Models: [MMLA (NeurIPS 2025)](https://arxiv.org/abs/2504.16427)
   - Multimodal Intent Recognition Datasets: [MIntRec (ACM MM 2022)](https://dl.acm.org/doi/10.1145/3503161.3547906) and [MIntRec2.0 (ICLR 2024)](https://openreview.net/forum?id=nY9nITZQjc)
 * **Algorithms**:
-  - Adaptive Deicision Boundary: [DA-ADB (AAAI 2021, IEEE/ACM TASLP)](https://ieeexplore.ieee.org/document/10097558) and EDB (AAAI 2026)
+  - Adaptive Deicision Boundary: [DA-ADB (AAAI 2021, IEEE/ACM TASLP)](https://ieeexplore.ieee.org/document/10097558) and [EDB (AAAI 2026)](https://arxiv.org/abs/2511.16685)
   - Multimodal Out-of-distribution Detection: [MIntOOD (IEEE TMM 2025)](https://ieeexplore.ieee.org/document/11195733)
   - Unsupervised and Semi-supervised Clustering: [DeepAligned (AAAI 2021)](https://arxiv.org/abs/2012.08987) and [USNID (IEEE TKDE 2023)](https://ieeexplore.ieee.org/document/10349963)
   - Unsupervised Multimodal Clustering: [UMC (ACL 2024)](https://aclanthology.org/2024.acl-long.2/)
@@ -64,7 +64,7 @@ I seek self-motivated researchers to join our team and explore new frontiers, an
 
 ## Publications 
 
-1. Yuetian Zou\*, <strong>Hanlei Zhang</strong>\*, Hua Xu, Songze Li, Xiao Long. Ellipsoid-Based Decision Boundaries for Open Intent Classification. 2025. <i>Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2026, CCF-A</strong>)
+1. Yuetian Zou\*, <strong>Hanlei Zhang</strong>\*, Hua Xu, Songze Li, Xiao Long. Ellipsoid-Based Decision Boundaries for Open Intent Classification. 2025. <i>Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence</i>. (<strong>AAAI 2026, CCF-A</strong>) [[paper]](https://arxiv.org/abs/2511.16685) 
 2. <strong>Hanlei Zhang</strong>\*, Zhuohang Li\*, Yeshuang Zhu, Hua Xu, Peiwu Wang, Haige Zhu, Jie Zhou, Jinchao Zhang. Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark. 2025. <i>Proceedings of the 39th Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track.</i> (<strong>NeurIPS 2025, CCF-A</strong>) [[paper]](https://arxiv.org/abs/2504.16427) [[code]](https://github.com/thuiar/MMLA) [[datasets]](https://huggingface.co/datasets/THUIAR/MMLA-Datasets) [[bibtex]](/files/MMLA/MMLA.bib) 
 3. <strong>Hanlei Zhang</strong>\*, Qianrui Zhou\*, Hua Xu, Jianhua Su, Roberto Evans, Kai Gao. Multimodal Classification and Out-of-distribution Detection for Multimodal Intent Understanding. 2025. <i>IEEE Transactions on Multimedia.</i> (<strong>IEEE TMM, CAAI-A</strong>) [[paper]](https://ieeexplore.ieee.org/document/11195733) [[code]](https://github.com/thuiar/MIntOOD) [[bibtex]](/files/TMM25-MIntOOD/MIntOOD.bib)
 4. <strong>Hanlei Zhang</strong>, Hua Xu, Fei Long, Xin Wang, Kai Gao. Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances. 2024. <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.</i> (<strong>ACL 2024, CCF-A</strong>) [[paper]](https://aclanthology.org/2024.acl-long.2/) [[code]](https://github.com/thuiar/UMC) [[bibtex]](/files/ACL24-UMC/UMC.bib)
